@@ -5,5 +5,6 @@ A Django application is proposed to facilitate consumer services for gas utiliti
 Moreover, the application will furnish customer support representatives with a dedicated tool for request management and customer assistance.
 To run application use python3 manage.py runserver command
 ![image](https://github.com/3008Dhruv/GAS-UTILITY/assets/168810355/b9aeb568-c100-4e0a-b457-a001fa924d74)
+![image](https://github.com/3008Dhruv/GAS-UTILITY/assets/168810355/f3e4ca85-32f9-4a07-ad12-dbfa8e222df1)
 
 
